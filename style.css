@@ -369,6 +369,7 @@ color: white;
 
 .footer-text p {
     font-size: 1.6rem;
+    direction: rtl;
 }
 
 .footer-iconTop a {
